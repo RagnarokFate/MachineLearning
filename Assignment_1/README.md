@@ -16,7 +16,7 @@ This project implements various machine learning algorithms, including Naïve Ba
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ml-assignment1.git
+    git clone RagnarokFate/MachineLearning
     cd ml-assignment1
     ```
 
