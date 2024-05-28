@@ -4,7 +4,7 @@ This project implements various machine learning algorithms, including Naïve Ba
 
 ## Requirements
 
-- Python 3.x
+- Python 3.8
 - numpy
 - pandas
 - matplotlib
