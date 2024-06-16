@@ -9,10 +9,6 @@
 - Support Vector Machines (SVM)
 - Kernels
 
-**Submitted by:**
-- Bashar Beshoti + 207370248
-- Ayal Kaabia + 322784760
-
 ## Background:
 This assignment will provide hands-on experience with fundamental machine learning algorithms and techniques, including perceptrons, logistic regression, gradient descent, and SVMs. You'll apply these methods to various classification problems.
 
