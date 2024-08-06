@@ -9,9 +9,6 @@
 - LDA
 - K-means clustering
 
-### Submitted by:
-- **Student 1 Name + ID**
-- **Student 2 Name + ID**
 
 ## Assignment Instructions:
 - Submissions in pairs only.
